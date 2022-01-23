@@ -23,6 +23,6 @@ https://github.com/anikch/Credit-EDA-Case-Study/blob/main/EDA_Case_Study.pdf
 
 ## Jupyter Notebook:
 
-https://colab.research.google.com/drive/1we_nq9h0Ffh6SKCh-zj9CR_wjlIBpR5h?usp=sharing
+https://github.com/anikch/Credit-EDA-Case-Study/blob/main/Credit_EDA.ipynb 
 
-https://github.com/anikch/Credit-EDA-Case-Study/blob/main/Credit_EDA.ipynb (if github does not work)
+https://colab.research.google.com/drive/1we_nq9h0Ffh6SKCh-zj9CR_wjlIBpR5h?usp=sharing (if github does not work)
